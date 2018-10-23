@@ -3,17 +3,14 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
+# Contact
+Damos Designs is available for hire and for collaborations.
 
-Jekyll is a great tool to create static sites, but there’s no backend to send your data to.
-
-However, you can use free SaaS as a backend for forms, such as [Formspree](https://formspree.io/) to handle form submissions. Sleek has a configured form using formspree ready for you. All you have to do is change the email in `.config.yml`.
-
-Check the form below to see it in action!
-
-### Example Formspree contact form with validation and reCaptcha
-
-Fill in the form or [email me](mailto:{{site.email}}) to discuss your next project.
-
-{% include form.html %}
-
-{% include modal.html %}
+- [DamosDesigns@gmail.com](mailto:{{site.email}})
+- [Github](http://github.com/dgilliams)
+- [Thingiverse](https://www.thingiverse.com/damosdesigns/about)
+- [LinkedIn](http://linkedin.com/in/damosdesigns)
+- [Instagram](http://instagram.com/damos_designs)
+- [YouTube](https://www.youtube.com/channel/UCrDBy0koYrhWNQsXfIeQNUA?)
+- [SoundCloud](https://soundcloud.com/feat_damos)
+- [Patreon](https://patreon.com/damosdesigns)

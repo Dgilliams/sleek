@@ -244,7 +244,6 @@ function addErrorData( element, error ) {
     element.after( "<span class='error-data'>" + error + "</span>" );
 }
 
-
 /*-------------------------------------------------------------------------*/
 /* AJAX FORM SUBMIT
 /* Formspree now only supports AJAX for Gold Users
